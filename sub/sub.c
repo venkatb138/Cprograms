@@ -39,3 +39,13 @@ int main()
 
 }
 
+
+/*
+ *
+ *
+ * output: 
+ *
+ *Enter the num1: 10
+  Enter the num2: 5
+  Substraction of given 2 numbers is 5
+  */
