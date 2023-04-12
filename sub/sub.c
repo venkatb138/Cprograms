@@ -33,5 +33,9 @@ int main()
 
         printf("Substraction of given 2 numbers is: %d\n", i4resultsub) ;
 
+	// exit from the main
+	
+	return 0 ;
+
 }
 
