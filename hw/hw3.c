@@ -3,7 +3,10 @@
 int main()
 
 {
+	// declaration of variables
 	char c = 'R' ;
+
+	// printing the output
 
 	printf(" %d " , c ) ;
 
@@ -13,9 +16,19 @@ int main()
 
 	printf(" %o ", c ) ;
 
+	//exit from main
+
 	return 0 ;
 }
 
+
+
+/*
+ *
+ * output: 82 R 52 122
+ *
+ *
+ */
 
 
 
