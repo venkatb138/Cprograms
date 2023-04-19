@@ -11,7 +11,7 @@ int main()
 	
        	//logic
 	
-	m %= 5 ; 
+	m %= 5.0 ; 
 
 
 	// printing the output
@@ -30,7 +30,8 @@ int main()
 /*
  *
  *
- * output: 0
+ * output: error
+ * note:  module wont work for float and double
  *
  *
  */
