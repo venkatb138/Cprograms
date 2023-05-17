@@ -3,7 +3,7 @@ int main(){
 	// Declaration of array
 	int array_a[] = {1,2,3,4,5} ;
 	// Declaration of variable size to store the number of elements array can hold
-	int size ;
+	int size, i ;
 	// Formulae to get the size
 	size = sizeof(array_a)/sizeof(array_a[0]) ;
 	// Printing the size
